@@ -1,5 +1,5 @@
 # Automated-Traffic-Monitoring-System
-An application which automates traffic controlling by counting vehicles, speed violators and allocating green signal time fairly to each lane using priority based yet cyclic scheduling algorithm.
+A software application which automates traffic controlling by counting vehicles, speed violators and allocating green signal time fairly to each lane using priority based yet cyclic scheduling algorithm.
 
 ## Introduction  
 We  have  the  ever  increasing problem of traffic violation. Decreasing  the  number  of  violations brings  more order and decreases the number of accidents. Currently the monitoring  is done  manually  in  majority of the cases. In some other cases radar guns are used. But these guns cannot target short-range and multiple vehicles. Hence  we can  use computer vision  technology  to  aid humans to prevent these violations.Detecting vehicles in surveillance data is one of the most sought after problems in computer vision. Here we have made an attempt to count vehicles ,detect speed violation and schedule traffic based on the dynamically changing density of vehicle counts along all lanes in the traffic junction.
