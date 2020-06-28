@@ -45,14 +45,14 @@ The vehicle count in each lane is taken as the density of the lane. A Priority b
 ![AutomatedTrafficController](Demo/AutomatedTrafficController.gif)
 
 ## Publications
-1.	Automated Traffic Monitoring System using Computer Vision
+1. **Automated Traffic Monitoring System using Computer Vision**
 - April 6, 2017, IEEE ICT in Business Industry & Government
 - ISSN: 978-1-5090-5515-9
--	![IEEE Research Paper] (https://ieeexplore.ieee.org/document/7892717)
+-	[IEEE Research Paper] (https://ieeexplore.ieee.org/document/7892717)
 
-2.	Density Based Dynamic Traffic Scheduling System
+2. **Density Based Dynamic Traffic Scheduling System**
 - June 2017,  International Journal of Computer Sciences and Engineering
 - ISSN: 0975–3397 VOLUME 9 ISSUE 06 2017
-- ![IJCSE Research Paper] (http://www.enggjournals.com/ijcse/doc/IJCSE17-09-06-001.pdf)
+- [IJCSE Research Paper] (http://www.enggjournals.com/ijcse/doc/IJCSE17-09-06-001.pdf)
 
 
